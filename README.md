@@ -48,14 +48,16 @@ I'm a passionate front-end developer specializing in **responsive web design**, 
 
 **Backend & Database**
 <p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/960px-Microsoft_.NET_logo.svg.png" width="40" height="40" alt="dotnet"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" alt="mssql"/>
 </p>
 
 **Social Media**
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tiktok/tiktok-original.svg" width="40" height="40" alt="tiktok"/>
+<img src="https://cdn.shopify.com/app-store/listing_images/ca1f1238d808935b77771b399df6e9ab/icon/CLe6nrP0lu8CEAE=.png" width="40" height="40" alt="tiktok"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" height="40" alt="instagram"/>
+<img src="https://cdn.pixabay.com/photo/2021/06/15/12/51/facebook-6338509_640.png" width="40" height="40" alt="facebook"/>
 </p>
 
 **Tools & Platforms**
