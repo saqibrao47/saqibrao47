@@ -73,7 +73,7 @@ I'm a passionate front-end developer specializing in **responsive web design**, 
 | **Languages** | HTML, CSS, JavaScript, TypeScript, C# |
 | **Frameworks** | React, Next.js, Vue.js, Tailwind CSS, Bootstrap, .NET |
 | **E-commerce** | Shopify, WooCommerce |
-| **Backend & DB** | Node.js, Express.js, REST APIs, MS SQL Server |
+| **Backend & DB** | C#, REST APIs, MS SQL Server |
 | **Tools** | Git, Figma, Adobe XD, VS Code |
 | **Social Media** | TikTok & social media account management/growth |
 
