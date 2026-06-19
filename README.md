@@ -1,57 +1,118 @@
-# Hi there! 👋 I'm Saqib Rao
+<h1 align="center">Hi, I'm Saqib Rao 👋</h1>
+<h3 align="center">Front-End Developer | UI/UX Enthusiast | Shopify Expert</h3>
 
-Welcome to my GitHub profile! I'm a front-end developer with a passion for creating visually stunning and user-centric web interfaces. My expertise lies in combining creativity with cutting-edge technology to deliver pixel-perfect designs and seamless user experiences.
-
-## 🚀 About Me
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqibrao47&label=Profile%20views&color=0e75b6&style=flat" alt="saqibrao47" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqibrao47" alt="saqibrao47" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saqib-tufail778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saqib-tufail778" height="30" width="40" /></a>
+<p align="center">
+  Crafting pixel-perfect, user-centric web experiences from Pakistan 🇵🇰
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saqibrao47&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/saqib-tufail778/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/saqibrao778"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:saqib.rajput4747@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibrao47&show_icons=true&locale=en&layout=compact" alt="saqibrao47" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqibrao47&show_icons=true&locale=en" alt="saqibrao47" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqibrao47&" alt="saqibrao47" /></p>
+I'm a passionate front-end developer specializing in **responsive web design**, **UI/UX optimization**, and **Shopify store development**. I love turning ideas into clean, maintainable, and visually striking digital products.
 
+- 💻 Specialize in **responsive design** and **user experience optimization**
+- 🌐 Solid background in **Shopify store & theme development**
+- 🎨 Strong focus on **pixel-perfect design** and **user engagement**
+- 🛠️ Build **e-commerce solutions** and **e-ticketing platforms** for institutions (universities, colleges, schools)
+- ⚙️ Comfortable across the stack with **.NET, C#, and MS SQL Server**
+- 📱 Manage and grow **TikTok and other social media accounts**
+- 🌱 Always learning and exploring the latest in web development
 
-- 💻 I specialize in **responsive web design** and **user experience optimization**.
-- 🌐 I have a solid background in **Shopify store and theme development**.
-- 🎨 My work emphasizes **pixel-perfect design** and **enhanced user engagement**.
-- 🌱 I’m constantly learning and exploring new trends and technologies in web development.
-- 🛠️ I also offer **E-commerce solutions** and build **E-ticketing websites** tailored to institutions like universities, colleges, and schools.
+---
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Next.js, Vue.js, Tailwind CSS, Bootstrap
-- **E-commerce Platforms:** Shopify, WooCommerce
-- **Tools:** Git, Figma, Adobe XD, VS Code
-- **Backend:** Node.js, Express.js, REST APIs
+**Languages**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"/>
+</p>
 
-## 📈 What I Do
+**Frameworks & Libraries**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="dotnet"/>
+</p>
 
-- **Front-End Development**: Bringing designs to life with clean, maintainable code.
-- **UI/UX Design**: Crafting intuitive and engaging digital experiences.
-- **Shopify Development**: Custom themes and functionalities to boost online stores.
-- **E-ticketing Solutions**: Streamlined booking systems for educational institutions.
-- **VPN Solutions**: Implementing secure browsing environments for regions like Pakistan.
+**Backend & Database**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" alt="mssql"/>
+</p>
 
-## 🌐 Let's Connect
+**Social Media**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tiktok/tiktok-original.svg" width="40" height="40" alt="tiktok"/>
+</p>
 
-- [Portfolio]() 🌐
-- [LinkedIn](https://www.linkedin.com/in/saqib-tufail778/) 💼
-- [Twitter](https://x.com/saqibrao778) 🐦
-- [Email](mailto:saqib.rajput4747@gmail.com) 📧
-?
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss exciting new projects!
+**Tools & Platforms**
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="photoshop"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"/>
+</p>
 
+| Category | Stack |
+|---|---|
+| **Languages** | HTML, CSS, JavaScript, TypeScript, C# |
+| **Frameworks** | React, Next.js, Vue.js, Tailwind CSS, Bootstrap, .NET |
+| **E-commerce** | Shopify, WooCommerce |
+| **Backend & DB** | Node.js, Express.js, REST APIs, MS SQL Server |
+| **Tools** | Git, Figma, Adobe XD, VS Code |
+| **Social Media** | TikTok & social media account management/growth |
+
+---
+
+### 📈 What I Do
+
+- 🖥️ **Front-End Development** — Bringing designs to life with clean, maintainable code
+- 🎨 **UI/UX Design** — Crafting intuitive, engaging digital experiences
+- 🛍️ **Shopify Development** — Custom themes & functionality to boost online stores
+- 🎫 **E-Ticketing Solutions** — Streamlined booking systems for educational institutions
+- 🗄️ **Backend Development** — Building robust systems with .NET, C#, and MS SQL Server
+- 📱 **Social Media Management** — Handling and growing TikTok and other social media accounts
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saqibrao47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibrao47&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqibrao47&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=saqibrao47&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saqib-tufail778/">LinkedIn</a> •
+  <a href="https://x.com/saqibrao778">Twitter</a> •
+  <a href="mailto:saqib.rajput4747@gmail.com">Email</a>
+</p>
+
+<p align="center">💬 Feel free to explore my repositories and reach out — I'm always open to collaborating on exciting projects!</p>
